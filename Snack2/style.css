@@ -1,0 +1,19 @@
+span {
+    background-color: black;
+    color: white;
+    font-size: 3em;
+    display: inline-block;
+    text-align: center;
+    margin: 30px auto auto auto;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 15px;
+    font-size: 1em;
+    background-color: blue;
+}
